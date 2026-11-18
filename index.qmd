@@ -1,0 +1,196 @@
+---
+title: "AI Impact Self-Assessment"
+subtitle: "An AI-assisted, human-in-the-loop concept for organizational impact assessment"
+---
+
+::: {.eyebrow}
+INDEPENDENT CONCEPT · NOVEMBER 2026
+:::
+
+::: {.hero}
+::: {.hero-content}
+<span class="hero-kicker">FROM INTENTION TO EVIDENCE</span>
+
+# Does an AI system deliver on its public-interest promise?
+
+An **AI-assisted, human-in-the-loop** concept to help organizations **organize evidence, examine potential harms, and identify where independent assessment is needed.** 
+
+*For AI systems already in operation.*
+
+<div class="hero-links">
+<a class="button-main" href="#workflow">Explore the workflow <span aria-hidden="true">↘</span></a>
+<a class="text-link" href="https://www.hiig.de/en/project/impact-ai/" target="_blank" rel="noopener noreferrer">Learn about HIIG's Impact AI Method <span aria-hidden="true">↗</span></a>
+</div>
+:::
+::: {.hero-decoration aria-hidden="true"}
+<div class="orbit orbit-one"></div>
+<div class="orbit orbit-two"></div>
+<div class="orbit orbit-three"></div>
+<div class="orbit-core">?</div>
+:::
+:::
+
+::: {.intro-grid}
+::: {.intro-label}
+### THE IDEA
+:::
+::: {.intro-copy}
+_How can organizations systematically examine whether their AI systems contribute to **sustainability and the public interest**?_
+
+This independent concept explores an **AI-assisted self-assessment tool** that could help organizations collect and interpret evidence, reflect on benefits and harms, and flag questions for human or independent review. Its workflow could draw on established frameworks, including HIIG's [Impact AI Method](https://www.hiig.de/en/project/impact-ai/#method), without being limited to one methodology. **AI supports the work; people remain responsible for validating evidence and making judgments.**
+:::
+:::
+
+## An illustrative self-assessment journey {#workflow}
+
+::: {.section-subtitle}
+An illustrative **organizational user journey**, not a replacement for any framework's formal assessment process. AI could assist with organizing and reviewing information at each stage; users validate its suggestions and retain control of the conclusions.
+:::
+
+
+::: {.workflow aria-label="Illustrative five-step organisational self-assessment journey"}
+
+::: {.step}
+<div class="step-top"><span class="step-number">01</span><span class="step-tag">SCOPE</span></div>
+<h3>Describe your AI system</h3>
+<p>Describe the deployed system, its users, and its claimed societal or environmental benefits. A human confirms the scope before proceeding.</p>
+<div class="step-prompt">System · Users · Intended benefits</div>
+:::
+
+<div class="connector" aria-hidden="true">↓</div>
+
+::: {.step}
+<div class="step-top"><span class="step-number">02</span><span class="step-tag">EVIDENCE</span></div>
+<h3>Gather supporting evidence</h3>
+<p>Upload documentation and gather stakeholder input. AI could organize sources and suggest missing information; people verify the record.</p>
+<div class="step-prompt">Documentation · Stakeholders · Evidence</div>
+:::
+
+<div class="connector" aria-hidden="true">↓</div>
+
+::: {.step}
+<div class="step-top"><span class="step-number">03</span><span class="step-tag">ASSESSMENT</span></div>
+<h3>Assess its potential impacts</h3>
+<p>Use framework-based questions on impact, governance, human rights, and social, environmental and economic sustainability. AI could help navigate questions; humans assess the evidence.</p>
+<div class="step-prompt">Benefits · Harms · Trade-offs</div>
+:::
+
+<div class="connector" aria-hidden="true">↓</div>
+
+::: {.step}
+<div class="step-top"><span class="step-number">04</span><span class="step-tag">FINDINGS</span></div>
+<h3>Identify risks and evidence gaps</h3>
+<p>AI could flag unsupported claims, inconsistencies and missing perspectives. Reviewers check those flags and identify unresolved harms and trade-offs.</p>
+<div class="step-prompt">Uncertainty · Missing evidence · Risks</div>
+:::
+
+<div class="connector" aria-hidden="true">↓</div>
+
+::: {.step .step-final}
+<div class="step-top"><span class="step-number">05</span><span class="step-tag">OUTPUT</span></div>
+<h3>Receive your assessment summary</h3>
+<p>Review an AI-assisted draft of provisional findings, evidence gaps and next steps. Human approval and possible independent review remain necessary.</p>
+<div class="step-prompt">Impact snapshot · Priorities · External review</div>
+:::
+
+:::
+
+## What comes out of it?
+
+::: {.section-subtitle}
+Not a certificate that an AI system is “good,” but a clearer starting point for responsible decisions.
+:::
+
+::: {.output-grid}
+::: {.output-card}
+<div class="output-index">OUTPUT 01</div>
+<h3>Provisional impact profile</h3>
+<p>A human-reviewed, provisional account of intended benefits, documented effects, possible harms, and open questions.</p>
+:::
+::: {.output-card}
+<div class="output-index">OUTPUT 02</div>
+<h3>Evidence & perspective gaps</h3>
+<p>Potentially AI-flagged gaps and inconsistencies, linked to sources for human verification.</p>
+:::
+::: {.output-card}
+<div class="output-index">OUTPUT 03</div>
+<h3>Next-step roadmap</h3>
+<p>Suggested actions for evidence collection, safeguards, stakeholder engagement, and independent evaluation, confirmed by people.</p>
+:::
+:::
+
+::: {.integrity-note}
+<div class="note-symbol" aria-hidden="true">↗</div>
+<div>
+<strong>Why independent perspectives still matter</strong>
+
+An organization assessing its own system may overlook harms or overstate benefits. **AI-generated suggestions can also be incomplete or misleading.** This proposed tool is a **preparatory and reflective aid**, not a certification or substitute for independent assessment. Human reviewers must check evidence, consider affected stakeholders, and make normative judgments. Rigorous frameworks such as HIIG's Impact AI Method additionally rely on interviews, qualitative analysis, and external involvement.
+</div>
+:::
+
+
+## Towards an Integrated AI Impact Assessment Framework {#framework}
+
+::: {.section-subtitle}
+The five-step self-assessment above illustrates **one component** of a broader research agenda. **I am interested in developing an AI-assisted platform** across three complementary pillars, with human oversight and independent perspectives throughout.
+:::
+
+::: {.platform-panel}
+<div class="platform-head">
+  <div class="platform-eyebrow">POTENTIAL RESEARCH PLATFORM</div>
+  <h3>AI-assisted impact assessment</h3>
+  <p>Framework-informed · Evidence-oriented · Human-in-the-loop</p>
+</div>
+
+<div class="platform-branches" aria-label="Three complementary directions for future research">
+  <div class="platform-branch">
+  <span class="branch-number">01 · STRUCTURED ASSESSMENT</span>
+  <strong>Evidence & stakeholder perspectives</strong>
+  <span>Framework-guided review of documentation, interviews, governance, and potential harms (e.g., HIIG’s <a href="https://www.hiig.de/en/project/impact-ai/#method" target="_blank" rel="noopener noreferrer">Impact AI Method</a>).</span>
+  <em>What do we know and how credible is the evidence?</em>
+  </div>
+  <div class="platform-branch">
+  <span class="branch-number">02 · QUANTITATIVE</span>
+  <strong>Data & causal evaluation</strong>
+  <span>Operational and observational data, descriptive statistics, experiments, and causal designs when appropriate.</span>
+  <em>Did deploying the AI system cause a change in outcomes?</em>
+  </div>
+  <div class="platform-branch">
+  <span class="branch-number">03 · INSTITUTIONAL</span>
+  <strong>Use & accountability</strong>
+  <span>Human review, institutional adoption, governance, and decisions informed by findings.</span>
+  <em>Does the assessment improve decisions and accountability?</em>
+  </div>
+</div>
+:::
+
+
+## About me {#about}
+
+::: {.about-panel}
+::: {.about-portrait}
+<img src="images/caio_ucla.JPG" alt="Portrait of Caio Velasco" class="about-photo">
+:::
+::: {.about-main}
+**[Caio Velasco](https://caiocvelasco.github.io/)** · Data Scientist · Economics & Public Policy
+
+I am a Brazilian mechanical engineer (UFRJ) with a Master's in Economics & Public Policy from UCLA (Lemann Foundation scholarship). I have worked internationally in data science, applied econometrics, machine learning, and data engineering, building production data platforms and collaborating with technical and business teams across the US, Europe, and Brazil. 
+
+My academic path has also been supported by recognition from _UCLA_, _Lemann Foundation_, _General Electric Foundation_, _Yale University_, and the _Club of Rome_.
+
+**I am exploring research opportunities at the intersection of** <strong class="about-focus">AI, societal impact, and evidence-based public policy</strong>.
+:::
+::: {.about-aside}
+<div class="about-small-heading">BACKGROUND & LINKS</div>
+<a href="https://www.linkedin.com/in/caiovelasco/" target="_blank" rel="noopener noreferrer">LinkedIn ↗</a>
+<div class="about-aside-note">Engineering · Empirical Research · Applied AI</div>
+:::
+:::
+
+::: {.disclaimer}
+HIIG's interest in future organizational self-assessment is a welcome coincidence with my interest in AI-assisted tools and applied AI governance. 
+
+**This page presents my own exploratory user journey**, developed in connection with an application to the Impact AI Fellowship 2027. It is **not a functioning AI assessment system**, has not been empirically validated, **and has not been commissioned or endorsed by HIIG**. No real AI system has been assessed here.
+
+© 2026 Caio Velasco. Original concept, writing, and design. HIIG’s Impact AI Method remains the work of its respective authors and institutions.
+:::

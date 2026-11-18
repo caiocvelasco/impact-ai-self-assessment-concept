@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "AI Impact Self-Assessment | Research Concept"
+  navbar: false
+  page-footer:
+    center: "Independent research concept by Caio Velasco · Not affiliated with or endorsed by HIIG"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    page-layout: full
+    anchor-sections: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    grid:
+      body-width: 1080px
+
+execute:
+  freeze: auto
