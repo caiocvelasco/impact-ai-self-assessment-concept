@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "AI Impact Self-Assessment",
+    "section": "",
+    "text": "INDEPENDENT CONCEPT · NOVEMBER 2026"
+  },
+  {
+    "objectID": "index.html#workflow",
+    "href": "index.html#workflow",
+    "title": "AI Impact Self-Assessment",
+    "section": "An illustrative self-assessment journey",
+    "text": "An illustrative self-assessment journey\n\nAn illustrative organizational user journey, not a replacement for any framework’s formal assessment process. AI could assist with organizing and reviewing information at each stage; users validate its suggestions and retain control of the conclusions.\n\n\n\n\n01SCOPE\n\n\nDescribe your AI system\n\n\nDescribe the deployed system, its users, and its claimed societal or environmental benefits. A human confirms the scope before proceeding.\n\n\nSystem · Users · Intended benefits\n\n\n\n↓\n\n\n\n02EVIDENCE\n\n\nGather supporting evidence\n\n\nUpload documentation and gather stakeholder input. AI could organize sources and suggest missing information; people verify the record.\n\n\nDocumentation · Stakeholders · Evidence\n\n\n\n↓\n\n\n\n03ASSESSMENT\n\n\nAssess its potential impacts\n\n\nUse framework-based questions on impact, governance, human rights, and social, environmental and economic sustainability. AI could help navigate questions; humans assess the evidence.\n\n\nBenefits · Harms · Trade-offs\n\n\n\n↓\n\n\n\n04FINDINGS\n\n\nIdentify risks and evidence gaps\n\n\nAI could flag unsupported claims, inconsistencies and missing perspectives. Reviewers check those flags and identify unresolved harms and trade-offs.\n\n\nUncertainty · Missing evidence · Risks\n\n\n\n↓\n\n\n\n05OUTPUT\n\n\nReceive your assessment summary\n\n\nReview an AI-assisted draft of provisional findings, evidence gaps and next steps. Human approval and possible independent review remain necessary.\n\n\nImpact snapshot · Priorities · External review"
+  },
+  {
+    "objectID": "index.html#what-comes-out-of-it",
+    "href": "index.html#what-comes-out-of-it",
+    "title": "AI Impact Self-Assessment",
+    "section": "What comes out of it?",
+    "text": "What comes out of it?\n\nNot a certificate that an AI system is “good,” but a clearer starting point for responsible decisions.\n\n\n\n\nOUTPUT 01\n\n\nProvisional impact profile\n\n\nA human-reviewed, provisional account of intended benefits, documented effects, possible harms, and open questions.\n\n\n\n\nOUTPUT 02\n\n\nEvidence & perspective gaps\n\n\nPotentially AI-flagged gaps and inconsistencies, linked to sources for human verification.\n\n\n\n\nOUTPUT 03\n\n\nNext-step roadmap\n\n\nSuggested actions for evidence collection, safeguards, stakeholder engagement, and independent evaluation, confirmed by people.\n\n\n\n\n\n↗\n\n\nWhy independent perspectives still matter\nAn organization assessing its own system may overlook harms or overstate benefits. AI-generated suggestions can also be incomplete or misleading. This proposed tool is a preparatory and reflective aid, not a certification or substitute for independent assessment. Human reviewers must check evidence, consider affected stakeholders, and make normative judgments. Rigorous frameworks such as HIIG’s Impact AI Method additionally rely on interviews, qualitative analysis, and external involvement."
+  },
+  {
+    "objectID": "index.html#framework",
+    "href": "index.html#framework",
+    "title": "AI Impact Self-Assessment",
+    "section": "Towards an Integrated AI Impact Assessment Framework",
+    "text": "Towards an Integrated AI Impact Assessment Framework\n\nThe five-step self-assessment above illustrates one component of a broader research agenda. I am interested in developing an AI-assisted platform across three complementary pillars, with human oversight and independent perspectives throughout.\n\n\n\n\nPOTENTIAL RESEARCH PLATFORM\n\n\nAI-assisted impact assessment\n\n\nFramework-informed · Evidence-oriented · Human-in-the-loop\n\n\n\n\n01 · STRUCTURED ASSESSMENT Evidence & stakeholder perspectives Framework-guided review of documentation, interviews, governance, and potential harms (e.g., HIIG’s Impact AI Method). What do we know and how credible is the evidence?\n\n\n02 · QUANTITATIVE Data & causal evaluation Operational and observational data, descriptive statistics, experiments, and causal designs when appropriate. Did deploying the AI system cause a change in outcomes?\n\n\n03 · INSTITUTIONAL Use & accountability Human review, institutional adoption, governance, and decisions informed by findings. Does the assessment improve decisions and accountability?"
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "AI Impact Self-Assessment",
+    "section": "About me",
+    "text": "About me\n\n\n\n\n\nCaio Velasco · Data Scientist · Economics & Public Policy\nI am a Brazilian mechanical engineer (UFRJ) with a Master’s in Economics & Public Policy from UCLA (Lemann Foundation scholarship). I have worked internationally in data science, applied econometrics, machine learning, and data engineering, building production data platforms and collaborating with technical and business teams across the US, Europe, and Brazil.\nMy academic path has also been supported by recognition from UCLA, Lemann Foundation, General Electric Foundation, Yale University, and the Club of Rome.\nI am exploring research opportunities at the intersection of AI, societal impact, and evidence-based public policy.\n\n\n\nBACKGROUND & LINKS\n\nLinkedIn ↗\n\nEngineering · Empirical Research · Applied AI\n\n\n\n\nHIIG’s interest in future organizational self-assessment is a welcome coincidence with my interest in AI-assisted tools and applied AI governance.\nThis page presents my own exploratory user journey, developed in connection with an application to the Impact AI Fellowship 2027. It is not a functioning AI assessment system, has not been empirically validated, and has not been commissioned or endorsed by HIIG. No real AI system has been assessed here.\n© 2026 Caio Velasco. Original concept, writing, and design. HIIG’s Impact AI Method remains the work of its respective authors and institutions."
+  }
+]
