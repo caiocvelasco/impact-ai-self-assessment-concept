@@ -3,9 +3,19 @@ title: "AI Impact Self-Assessment"
 subtitle: "An AI-assisted, human-in-the-loop concept for organizational impact assessment"
 ---
 
-::: {.eyebrow}
-INDEPENDENT CONCEPT · NOVEMBER 2026
-:::
+```{=html}
+<nav class="lab-project-bar" aria-label="AI Governance Lab project navigation">
+  <div class="lab-project-brand">
+    <a href="https://aigovernancelab.org/" target="_self">AI Governance Lab</a>
+    <span class="lab-project-separator" aria-hidden="true">/</span>
+    <span class="lab-project-category">Applied Tools</span>
+  </div>
+  <a class="lab-project-back" href="https://aigovernancelab.org/projects.html" target="_self"><span aria-hidden="true">←</span> All projects</a>
+</nav>
+<em><p class="lab-project-note">An independent tool concept developed as part of the AI Governance Lab.</p></em>
+```
+
+<br>
 
 ::: {.hero}
 ::: {.hero-content}
@@ -172,7 +182,7 @@ The five-step self-assessment above illustrates **one component** of a broader r
 <img src="images/caio_ucla.JPG" alt="Portrait of Caio Velasco" class="about-photo">
 :::
 ::: {.about-main}
-**[Caio Velasco](https://caiocvelasco.github.io/)** · Data Scientist · Economics & Public Policy
+**[Caio Velasco](https://caiocvelasco.github.io/)** · Data Science · Economics & Public Policy
 
 I am a Brazilian mechanical engineer (UFRJ) with a Master's in Economics & Public Policy from UCLA (Lemann Foundation scholarship). I have worked internationally in data science, applied econometrics, machine learning, and data engineering, building production data platforms and collaborating with technical and business teams across the US, Europe, and Brazil. 
 

@@ -6,7 +6,7 @@ website:
   title: "AI Impact Self-Assessment | Research Concept"
   navbar: false
   page-footer:
-    center: "Independent research concept by Caio Velasco · Not affiliated with or endorsed by HIIG"
+    center: "Independent tool concept by Caio Velasco · AI Governance Lab · Not affiliated with or endorsed by HIIG"
 
 format:
   html:
