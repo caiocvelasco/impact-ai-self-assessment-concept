@@ -133,3 +133,12 @@ main p.lab-project-note { margin: 10px 0 0; color: var(--muted); font-size: .78r
   .lab-project-bar { padding-top: 16px; font-size: .78rem; }
   .lab-project-brand { gap: 6px; }
 }
+
+/* Project classification — shared AI Governance Lab palette. */
+.lab-project-tags { display: flex; flex-wrap: wrap; gap: 8px; margin: 17px 0 0; }
+.lab-project-tags span { display: inline-block; padding: 5px 11px; border-radius: 20px; font-size: .75rem; font-weight: 600; line-height: 1.4; }
+.lab-project-tags .pillar-tag { background: #f1edef; border: 1px solid #e5dce0; color: var(--plum); }
+.lab-project-tags .pillar-tag-sage { background: #edf2ee; border: 1px solid #dce8df; color: #526f61; }
+.lab-project-tags .application-tag { background: #f4f3f1; border: 1px solid #dfdedb; color: var(--muted); }
+.lab-project-stage.eyebrow { padding: 18px 0 16px; }
+.hero h1:first-child { margin-top: 0; }

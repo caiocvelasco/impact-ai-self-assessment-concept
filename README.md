@@ -1,14 +1,16 @@
-# AI-Assisted Impact Assessment — Research Concept
+# AI Impact Self-Assessment
 
-An independent, one-page [Quarto](https://quarto.org/) research concept exploring an **AI-assisted, human-in-the-loop self-assessment workflow** for organisations operating AI systems. The proposed workflow helps people organise evidence, examine potential societal and environmental benefits and harms, identify uncertainty, and plan further review.
+An independent applied project at the concept stage within [AI Governance Lab](https://aigovernancelab.org/), presented as a one-page [Quarto](https://quarto.org/) website exploring an **AI-assisted, human-in-the-loop self-assessment workflow** for organisations operating AI systems. The proposed workflow helps people organise evidence, examine potential societal and environmental benefits and harms, identify uncertainty, and plan further review.
 
-The initial self-assessment is **one component of a broader research direction** spanning three complementary pillars:
+The initial self-assessment is **one component of a broader research direction** spanning three complementary research directions:
 
 1. **Structured assessment:** documents, interviews, stakeholder perspectives, governance and established assessment frameworks.
 2. **Quantitative evaluation:** operational and observational data, experiments, statistical analysis and causal inference where the data and assumptions support them.
 3. **Institutional research:** human oversight, organisational adoption, accountability and evidence-informed decisions.
 
 These are *proposed research directions*, not implemented software modules. The page is a visual concept, **not a functioning AI assessment service** or a validated evaluation.
+
+**Lab classification:** Applied project · Concept stage · Governance of AI · AI for Governance. Potential application areas: Public Administration and Regulated Industries.
 
 ## Repository files
 

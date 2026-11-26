@@ -8,18 +8,22 @@ subtitle: "An AI-assisted, human-in-the-loop concept for organizational impact a
   <div class="lab-project-brand">
     <a href="https://aigovernancelab.org/" target="_self">AI Governance Lab</a>
     <span class="lab-project-separator" aria-hidden="true">/</span>
-    <span class="lab-project-category">Applied Tools</span>
+    <span class="lab-project-category">Projects</span>
   </div>
   <a class="lab-project-back" href="https://aigovernancelab.org/projects.html" target="_self"><span aria-hidden="true">←</span> All projects</a>
 </nav>
-<em><p class="lab-project-note">An independent tool concept developed as part of the AI Governance Lab.</p></em>
+<div class="lab-project-tags" aria-label="Project classification">
+  <span class="pillar-tag">Governance of AI</span>
+  <span class="pillar-tag-sage">AI for Governance</span>
+  <span class="application-tag">Public Administration</span>
+  <span class="application-tag">Regulated Industries</span>
+</div>
+<div class="eyebrow lab-project-stage">APPLIED PROJECT · CONCEPT STAGE · NOVEMBER 2026</div>
 ```
-
-<br>
 
 ::: {.hero}
 ::: {.hero-content}
-<span class="hero-kicker">FROM INTENTION TO EVIDENCE</span>
+<span class="hero-kicker">AI IMPACT SELF-ASSESSMENT</span>
 
 # Does an AI system deliver on its public-interest promise?
 

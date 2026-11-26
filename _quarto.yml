@@ -3,7 +3,7 @@ project:
   output-dir: _site
 
 website:
-  title: "AI Impact Self-Assessment | Research Concept"
+  title: "AI Impact Self-Assessment | AI Governance Lab"
   navbar: false
   page-footer:
     center: "Independent tool concept by Caio Velasco · AI Governance Lab · Not affiliated with or endorsed by HIIG"
