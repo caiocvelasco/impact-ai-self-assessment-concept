@@ -102,9 +102,16 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<div class="eyebrow">
-<p>INDEPENDENT CONCEPT · NOVEMBER 2026</p>
-</div>
+<nav class="lab-project-bar" aria-label="AI Governance Lab project navigation">
+  <div class="lab-project-brand">
+    <a href="https://aigovernancelab.org/" target="_self">AI Governance Lab</a>
+    <span class="lab-project-separator" aria-hidden="true">/</span>
+    <span class="lab-project-category">Applied Tools</span>
+  </div>
+  <a class="lab-project-back" href="https://aigovernancelab.org/projects.html" target="_self"><span aria-hidden="true">←</span> All projects</a>
+</nav>
+<em><p class="lab-project-note">An independent tool concept developed as part of the AI Governance Lab.</p></em>
+<p><br></p>
 <div class="hero">
 <div class="hero-content">
 <p><span class="hero-kicker">FROM INTENTION TO EVIDENCE</span></p>
@@ -318,7 +325,7 @@ Framework-informed · Evidence-oriented · Human-in-the-loop
 <p><img src="images/caio_ucla.JPG" alt="Portrait of Caio Velasco" class="about-photo"></p>
 </div>
 <div class="about-main">
-<p><strong><a href="https://caiocvelasco.github.io/">Caio Velasco</a></strong> · Data Scientist · Economics &amp; Public Policy</p>
+<p><strong><a href="https://caiocvelasco.github.io/">Caio Velasco</a></strong> · Data Science · Economics &amp; Public Policy</p>
 <p>I am a Brazilian mechanical engineer (UFRJ) with a Master’s in Economics &amp; Public Policy from UCLA (Lemann Foundation scholarship). I have worked internationally in data science, applied econometrics, machine learning, and data engineering, building production data platforms and collaborating with technical and business teams across the US, Europe, and Brazil.</p>
 <p>My academic path has also been supported by recognition from <em>UCLA</em>, <em>Lemann Foundation</em>, <em>General Electric Foundation</em>, <em>Yale University</em>, and the <em>Club of Rome</em>.</p>
 <p><strong>I am exploring research opportunities at the intersection of</strong> <strong class="about-focus">AI, societal impact, and evidence-based public policy</strong>.</p>
@@ -408,7 +415,7 @@ Engineering · Empirical Research · Applied AI
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/caiocvelasco\.github\.io\/impact-ai-self-assessment-concept\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
@@ -747,7 +754,7 @@ Engineering · Empirical Research · Applied AI
       &nbsp;
     </div>   
     <div class="nav-footer-center">
-<p>Independent research concept by Caio Velasco · Not affiliated with or endorsed by HIIG</p>
+<p>Independent tool concept by Caio Velasco · AI Governance Lab · Not affiliated with or endorsed by HIIG</p>
 </div>
     <div class="nav-footer-right">
       &nbsp;
